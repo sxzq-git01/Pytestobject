@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ATFW_FOR_API.iml" filepath="$PROJECT_DIR$/.idea/ATFW_FOR_API.iml" />
+      <module fileurl="file://E:/InterfaceTest/.idea/EduPro_new.iml" filepath="E:/InterfaceTest/.idea/EduPro_new.iml" />
+      <module fileurl="file://E:/RequestAPI/.idea/RequestAPI.iml" filepath="E:/RequestAPI/.idea/RequestAPI.iml" />
+    </modules>
+  </component>
+</project>

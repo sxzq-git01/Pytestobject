@@ -1,0 +1,38 @@
+[2018-07-03 03:23:14,779 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:23:14,781 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:23:14,782 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:23:14,783 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:23:14,785 - ShareModules.py line: 131] - ERROR: write() argument must be str, not bytes
+[2018-07-03 03:26:33,939 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:26:33,940 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:26:33,943 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:26:33,944 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:26:33,945 - ShareModules.py line: 131] - ERROR: write() argument must be str, not bytes
+[2018-07-03 03:30:45,778 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:30:45,779 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:30:45,781 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:30:45,782 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:30:45,783 - ShareModules.py line: 131] - ERROR: write() argument must be str, not bytes
+[2018-07-03 03:31:52,490 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:31:52,491 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:31:52,493 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:31:52,494 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:31:52,495 - ShareModules.py line: 131] - ERROR: write() argument must be str, not bytes
+[2018-07-03 03:35:03,737 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:35:03,740 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:35:03,741 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:35:03,743 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:35:03,744 - ShareModules.py line: 131] - ERROR: write() argument must be str, not bytes
+[2018-07-03 03:37:18,469 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:37:18,470 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:37:18,472 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:37:18,473 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:37:18,474 - ShareModules.py line: 131] - ERROR: write() argument must be str, not bytes
+[2018-07-03 03:38:40,660 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:38:40,662 - ShareModules.py line: 131] - ERROR: 'test_login_success_001'
+[2018-07-03 03:38:40,663 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:38:40,665 - ShareModules.py line: 131] - ERROR: 'test_login_username_error_002'
+[2018-07-03 03:38:40,667 - ShareModules.py line: 125] - INFO: 脚本成功运行
+[2018-07-03 03:40:35,710 - ShareModules.py line: 125] - INFO: 脚本成功运行
+[2018-07-03 08:36:52,369 - ShareModules.py line: 125] - INFO: 脚本成功运行
+[2018-07-03 09:04:50,378 - ShareModules.py line: 125] - INFO: 脚本成功运行

@@ -1,0 +1,13 @@
+[2018-07-06 08:50:22,183 - ShareModules.py line: 125] - INFO: 脚本成功运行
+[2018-07-06 08:54:20,491 - ShareModules.py line: 125] - INFO: 脚本成功运行
+[2018-07-06 08:58:51,271 - ShareModules.py line: 125] - INFO: 脚本成功运行
+[2018-07-06 09:13:22,334 - ShareModules.py line: 131] - ERROR: 'super' object has no attribute '__getattr__'
+[2018-07-06 09:23:05,357 - ShareModules.py line: 125] - INFO: 脚本成功运行
+[2018-07-06 09:29:44,663 - ShareModules.py line: 131] - ERROR: 'TestRegisterAPI'
+[2018-07-06 09:29:44,678 - ShareModules.py line: 127] - DEBUG: debug日志输出
+[2018-07-06 09:29:44,680 - ShareModules.py line: 125] - INFO: Info日志输出
+[2018-07-06 09:29:44,681 - ShareModules.py line: 129] - WARNING: warning日志输出
+[2018-07-06 09:29:44,683 - ShareModules.py line: 131] - ERROR: error日志输出
+[2018-07-06 09:29:44,685 - ShareModules.py line: 125] - INFO: ---测试开始----
+[2018-07-06 09:29:44,688 - ShareModules.py line: 125] - INFO: 操作步骤1,2,3
+[2018-07-06 09:29:44,690 - ShareModules.py line: 129] - WARNING: ----测试结束----
